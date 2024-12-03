@@ -1,0 +1,9 @@
+1. Defining the neural network structure ( # of input units,  # of hidden units, etc). 
+2. Initializing the model's parameters
+3. Loop until convergence on optimal parameters:
+    - Implementing forward propagation
+    - Computing cost
+    - Implementing backward propagation to get the gradients
+    - Updating parameters through gradient descent
+
+link : https://colab.research.google.com/github/maticvl/dataHacker/blob/master/NN/NN_010_B_Training_a_Shallow_Neural_Network.ipynb
